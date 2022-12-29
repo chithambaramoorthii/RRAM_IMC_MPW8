@@ -1,12 +1,15 @@
-# Caravel User Project
+# RRAM IMC  
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
+The project includes RRAM In Memory Computing Accelerator , designed by our team at IIT Delhi.This is the updated version of our previous submission.
+This includes changes in the circuit of different blocks of the complete design.
 
-| :exclamation: Important Note            |
-|-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
+Designers :
+Chithambara Moorthii
+Ayan Ray 
+Richa Mishra
+Vivek Parmar
+Digamber kumar Pandey 
 
-Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of how to use caravel_user_project
 
-Refer to [README](docs/source/index.rst) for this sample project documentation. 
+
